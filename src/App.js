@@ -33,9 +33,8 @@ function App() {
   return (
     <div>
       <h1>Hello World</h1>
-      <p>This is also visible!</p>
-      <Expenses items={expenses}/>
-
+      <p>Udemy Project!</p>
+      <Expenses items={expenses} />
     </div>
   );
 }
