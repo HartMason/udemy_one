@@ -34,6 +34,7 @@ function App() {
     <div>
       <h1>Hello World</h1>
       <p>Udemy Project!</p>
+      <h2>Updated project</h2>
       <Expenses items={expenses} />
     </div>
   );
