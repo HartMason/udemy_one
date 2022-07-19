@@ -29,8 +29,13 @@ function App() {
     },
   ];
 
-  //JSX
+  //JSX alternateive... (But Harder To Read)
+  //  Return React.createElement('div', {},
+  //  React.createElement('h2', {}, "Let's get started!"))
+  //  React.createElement(Expenses, {items: expenses})
+ 
   return (
+
     <div>
       <h1>Hello World</h1>
       <p>Udemy Project!</p>
